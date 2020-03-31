@@ -1,0 +1,15 @@
+invaled_arguments: "&cInvalid Arguments"
+stars_given: "&bStar given %amount% to %player%"
+star_material: "NETHER_STAR"
+name: "&b&lFALLEN HERO STAR"
+lore:
+  - "&8--------------------"
+  - "&f "
+  - "&b&lFALLEN HERO STAR"
+  - "&f"
+  - "&8  - Fallen hero stars can be put into your"
+  - "&8inventory and on death you will keep your inventory."
+  - "&f"
+  - "&8--------------------"
+player_sent_message:
+  - "&c&lOH NO! &fYou died. Luckily you had a falle heros star on you that saved your life."

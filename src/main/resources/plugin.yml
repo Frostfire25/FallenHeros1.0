@@ -1,0 +1,7 @@
+name: FallenHeros
+version: ${project.version}
+main: co.antiqu.fallenheros.FallenHeros
+api-version: 1.13
+authors: [Alex]
+commands:
+  givestar:

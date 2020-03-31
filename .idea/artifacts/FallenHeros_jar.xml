@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FallenHeros:jar">
+    <output-path>$USER_HOME$/Desktop/LocalHost Server/plugins</output-path>
+    <root id="archive" name="FallenHeros.jar">
+      <element id="module-output" name="FallenHeros" />
+    </root>
+  </artifact>
+</component>
